@@ -23,3 +23,33 @@ If you install this repo as a module you can use it just like you would regular 
 | update the Groups Add privacy         | ✅     |
 | Button WhatsApp                       | ✅     |
 | others                                |        |
+
+---
+
+# What has been modified?
+
+Some functions to support buttons and fix metadata that output null causing out of control errors, all of which have been fixed.
+
+# How to install?
+
+```markdown
+- Using npm:
+  ```bash
+  npm install github:@Azrefta/Baileys
+  ```
+
+- Using yarn:
+  ```bash
+  yarn add github:@Azrefta/Baileys
+  ```
+
+- Example of dependencies content:
+  ```json
+  {
+    "dependencies": {
+      "Baileys": "github:@Azrefta/Baileys"
+    }
+  }
+  ```
+
+---
