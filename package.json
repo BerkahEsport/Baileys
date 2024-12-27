@@ -10,6 +10,6 @@
   "author": "Azrefta",
   "license": "MIT",
   "dependencies": {
-    "baileys": "npm:@whiskeysockets/baileys@latest"
+    "baileys": "github:@Azrefta/Bail"
   }
 }
