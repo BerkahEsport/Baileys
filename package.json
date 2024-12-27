@@ -1,0 +1,15 @@
+{
+  "name": "baileys-fix",
+  "version": "6.7.3",
+  "description": "A fixed version of Baileys with additional patches applied",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "node index.js"
+  },
+  "keywords": ["baileys", "fix", "patch", "wrapper"],
+  "author": "Azrefta",
+  "license": "MIT",
+  "dependencies": {
+    "baileys": "npm:@whiskeysockets/baileys@latest"
+  }
+}
