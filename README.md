@@ -32,7 +32,6 @@ Some functions to support buttons and fix metadata that output null causing out 
 
 # How to install?
 
-```markdown
 - Using npm:
   ```bash
   npm install github:@Azrefta/Baileys
