@@ -51,4 +51,12 @@ Some functions to support buttons and fix metadata that output null causing out 
   }
   ```
 
+- Then Import
+  ```javascript
+  import makeWASocket from '@whiskeysockets/baileys'```
+
 ---
+
+# The rest of the settings are still the same
+
+More information (https://github.com/Azrefta/Bail)[@whiskeysockets/baileys]
