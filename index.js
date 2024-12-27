@@ -12,11 +12,11 @@ const targetFile = path.join(baileysPath, 'lib/socket/newsletter.js');
 function replaceFile() {
   if (fs.existsSync(targetFile)) {
     fs.copyFileSync(patchedFile, targetFile);
-    console.log('File newsletter.js di Baileys berhasil digantikan.');
+    //console.log('File newsletter.js di Baileys berhasil digantikan.');
   } else {
-    console.error(
+    /*console.error(
       'File target tidak ditemukan. Pastikan Baileys terinstal di node_modules.'
-    );
+    );*/
   }
 }
 
